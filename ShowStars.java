@@ -4,7 +4,7 @@ class ShowStars
 {
   public static void main(String[] args)
   {
-    System.out.println("This project is for check golden number.");
+    System.out.println("This project is for show stars.");
 
     Scanner x = new Scanner(System.in);
     System.out.println("Enter your number ");
